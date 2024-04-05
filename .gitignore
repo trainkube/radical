@@ -9,4 +9,4 @@
 crash.log
 crash.*.log
 
-*.lock*
+**/.lock/*
